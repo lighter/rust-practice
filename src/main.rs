@@ -6,9 +6,10 @@
 // mod arrays;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+mod functions;
 
 fn main() {
     // print::run();
-    loops::run();
+    functions::run();
 }
